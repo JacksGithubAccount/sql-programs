@@ -1,0 +1,1 @@
+EXEC spBalanceRange  @VendorVar='F%'
